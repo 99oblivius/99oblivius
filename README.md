@@ -1,6 +1,8 @@
 # 👋 I'm oblivius _aka_ Livi
 
-- Computers and Sciences have always fascinated. I will always want to learn more when it comes to Hardware and Software. 
+Tech enthusiast with a passion for growing my killset and knowledgebase to further enjoy my time making. 
+
+From UX to Sysadmin I will always want to explore, learn, and create.
 
 #### ~~————~~ Contact ~~————~~
 ![Static Badge](https://img.shields.io/badge/---?style=plastic&logo=gmail&logoColor=white&logoSize=auto&label=projects%40oblivius.dev&color=white&link=mailto%3Aprojects%40oblivius.dev)
