@@ -1,6 +1,6 @@
 # 👋 I'm oblivius _aka_ Livi
 
-Tech enthusiast with a passion for growing my killset and knowledgebase to further enjoy my time making. 
+Tech enthusiast with a passion for growing my skillset and knowledgebase to further enjoy my time making. 
 
 From UX to Sysadmin I will always want to explore, learn, and create.
 
