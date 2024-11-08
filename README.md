@@ -1,5 +1,4 @@
-# 👋 I'm oblivius _aka_ Livi
-
+# oblivius _aka_ Livi here 👋
 Tech enthusiast with a passion for growing my skillset and knowledgebase to further enjoy my time making things. 
 
 From UX to Sysadmin I will always want to explore, learn, and create.
