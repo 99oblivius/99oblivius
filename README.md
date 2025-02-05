@@ -8,7 +8,6 @@ From UX to Sysadmin I will always want to explore, learn, and create.
 
 #### ~~——————————————————~~ Experiences ~~——————————————————~~
 
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/CSharp-7F3089?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -37,9 +36,9 @@ From UX to Sysadmin I will always want to explore, learn, and create.
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Plastic SCM](https://img.shields.io/badge/Plastic_SCM-FF5B00?style=for-the-badge)
-![Perforce](https://img.shields.io/badge/Perforce-404040?style=for-the-badge&logo=perforce&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Perforce](https://img.shields.io/badge/Perforce-404040?style=for-the-badge&logo=perforce&logoColor=white)
+![Plastic SCM](https://img.shields.io/badge/Plastic_SCM-FF5B00?style=for-the-badge)
 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe-001E36?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Affinity](https://img.shields.io/badge/Affinity-222324?style=for-the-badge&logo=affinity&logoColor=white)
@@ -52,13 +51,16 @@ From UX to Sysadmin I will always want to explore, learn, and create.
 ![FFMPEG](https://img.shields.io/badge/FFMPEG-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![OpenVR](https://img.shields.io/badge/OpenVR_SDK-000000?style=for-the-badge&logo=valve&logoColor=white)
 
+![EdgeDB](https://img.shields.io/badge/EdgeDB-5DC8AF?style=for-the-badge&logo=edgedb&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
