@@ -47,6 +47,7 @@ From UX to Sysadmin I will always want to explore, learn, and create.
 ![FL Studio](https://img.shields.io/badge/FL_Studio-FF6600?style=for-the-badge&logoColor=white)
 
 ![OpenVR](https://img.shields.io/badge/OpenVR_SDK-000000?style=for-the-badge&logo=valve&logoColor=white)
+![Monado](https://img.shields.io/badge/Monado-5C2983?style=for-the-badge&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord_API-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![FFMPEG](https://img.shields.io/badge/FFMPEG-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
